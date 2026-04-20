@@ -1,4 +1,4 @@
-# bot_5_trimmer
+# bot_4_trimmer
 
 Telegram-бот для обрезки видеофайлов через ffmpeg.
 

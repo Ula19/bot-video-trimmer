@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     # PostgreSQL
     db_host: str = "localhost"
     db_port: int = 5432
-    db_name: str = "bot_5_trimmer"
+    db_name: str = "bot_4_trimmer"
     db_user: str = "postgres"
     db_password: str = ""
 
