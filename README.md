@@ -35,9 +35,9 @@ docker compose logs -f bot
 bot/
   main.py, config.py, i18n.py, emojis.py
   database/   — models, crud
-  handlers/   — start, admin, trim (TODO)
+  handlers/   — start, admin, trim
   middlewares/ — subscription, rate_limit
   keyboards/  — inline, admin
-  services/   — trimmer (TODO)
-  utils/      — commands, timecode (TODO)
+  services/   — trimmer
+  utils/      — commands, timecode, fsm_cleanup
 ```
